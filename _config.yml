@@ -22,7 +22,7 @@ title: Aprende Ruby - Comunidad
 email: vifrac@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esta es una comunidad para aprender o enseñar sobre el lenguaje de programación Ruby y su ecosistema, te invitamos a formar parte de todo lo que actualmente estamos construyendo.
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/blogComunidadAprendeRuby' # the subpath of your site, e.g. /blog
 url: 'https://aprenderuby.github.io/blogComunidadAprendeRuby/' # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: AprendeRuby
