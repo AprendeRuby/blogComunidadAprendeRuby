@@ -21,5 +21,4 @@ print_hi('Tom')
 \
 Si quieres saber más sobre nosotros pasa por [Quienes somos][quienes-somos]
 
-[quienes-somos]: /quienes_somos/
-[permalink]: /quienes_somos/
+[quienes-somos]: https://aprenderuby.github.io/blogComunidadAprendeRuby/quienes_somos/
